@@ -1,0 +1,9 @@
+Ana Paula Martins 17/0056082
+Jaqueline Coelho 15/0131283
+
+Para compilar o programa, abra o terminal na pasta e:
+$ make clean
+$ make
+$ ./trabalho
+
+Sera impresso no console: Os emparelhamentos e a quantidade de professores alocados de forma estavel.
