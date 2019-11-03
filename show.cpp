@@ -10,8 +10,8 @@ it = (list<escola>.begin())
 
 while (iterator list<escola> != list<escola>.end()) {
     cout << iterator->pareamento.front() << ' ';
-    If(itv->pareamento.back() !=itv->pareamento.front()){
-        Cout<<iterator->pareamento.back()}
+    if(iterator list<escola>->pareamento.back() !=iterator list<escola>->pareamento.front()){
+        cout<<iterator->pareamento.back()}
     iterator list<escola>++;
 }
 }
