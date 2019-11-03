@@ -6,7 +6,7 @@ de professores que puderam ser alocados de forma estavel*/
 void imprimir_resultado (){
 
 list<Escola>::iterator it;
-iterator list<escola> = list<escola>.begin ();
+it = (list<escola>.begin ();)
 
 while (iterator list<escola> != list<escola>.end()) {
     cout << iterator->pareamento.front() << ' ';
